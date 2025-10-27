@@ -58,7 +58,7 @@ Built with **Python**, the game uses **Pygame** and **Tkinter** to provide a com
 pip install pygame pyautogui
 
 python main.py
-
+```
 ---
 
 📅 Completed: April 2024 – Ho Chi Minh City
